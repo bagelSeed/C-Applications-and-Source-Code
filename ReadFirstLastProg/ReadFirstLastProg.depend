@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1360769296 source:f:\grade 12 com sci\lessons\readfirstlastprog\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

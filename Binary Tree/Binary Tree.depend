@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1363704058 source:f:\grade 12 com sci\lessons\binary tree\main.cpp
+	<iostream>
+	"binarytree.h"
+
+1363701466 f:\grade 12 com sci\lessons\binary tree\binarytree.h
+
+1364481340 source:f:\grade 12 com sci\lessons\binary tree\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+
+1364481408 source:f:\grade 12 com sci\final project\lessons\binary tree\main.cpp
+	<iostream>
+	"binarytree.h"
+
+1363701466 f:\grade 12 com sci\final project\lessons\binary tree\binarytree.h
+
+1364488608 source:c:\users\mark\desktop\final project\lessons\binary tree\main.cpp
+	<iostream>
+	"binarytree.h"
+
+1363708666 c:\users\mark\desktop\final project\lessons\binary tree\binarytree.h
+
+1368118708 source:c:\users\mark\desktop\final project\lessons\binary tree\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+

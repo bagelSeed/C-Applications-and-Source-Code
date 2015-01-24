@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1360943524 source:g:\grade 12 com sci\lessons\permutation\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+

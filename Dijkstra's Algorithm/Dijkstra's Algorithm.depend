@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1366034318 source:f:\grade 12 com sci\lessons\dijkstra's algorithm\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<limits>
+
+1366042844 source:c:\users\mark\desktop\final project\lessons\dijkstra's algorithm\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<limits>
+

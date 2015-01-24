@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1363877104 source:f:\grade 12 com sci\lessons\connected cells\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+

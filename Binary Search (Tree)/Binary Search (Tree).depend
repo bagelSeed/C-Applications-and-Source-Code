@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1363789010 source:f:\grade 12 com sci\lessons\binary search (tree)\main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1363701466 f:\grade 12 com sci\lessons\binary search (tree)\binarytree.h
+
+1363789010 source:h:\grade 12 com sci\lessons\binary search (tree)\main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1363701466 h:\grade 12 com sci\lessons\binary search (tree)\binarytree.h
+
+1363796210 source:c:\users\mark\desktop\final project\lessons\binary search (tree)\main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1363708666 c:\users\mark\desktop\final project\lessons\binary search (tree)\binarytree.h
+
